@@ -1,4 +1,0 @@
-BattleChat
-==========
-
-for my practice
